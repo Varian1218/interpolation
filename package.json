@@ -1,8 +1,8 @@
 {
   "description": "",
-  "displayName": "Interpolation",
+  "displayName": "Interpolations",
   "keywords": [],
-  "name": "com.little-lion.interpolation",
+  "name": "com.little-lion.interpolations",
   "unity": "2021.3",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

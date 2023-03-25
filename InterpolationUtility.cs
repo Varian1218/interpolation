@@ -1,6 +1,6 @@
 using System;
 
-namespace Interpolation
+namespace Interpolations
 {
     public static class InterpolationUtility
     {
