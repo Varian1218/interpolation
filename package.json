@@ -1,8 +1,13 @@
 {
+  "author": {
+    "name": "Little Lion",
+    "url": "https://github.com/littlelion-libraries"
+  },
+  "dependencies": {},
   "description": "",
   "displayName": "Interpolations",
   "keywords": [],
   "name": "com.little-lion.interpolations",
   "unity": "2021.3",
-  "version": "1.0.4"
+  "version": "1.0.5"
 }
